@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.home_title{
+    background-color:aliceblue;
+}
+.logo2{
+    width: 70px;
+    height: 80px;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -20%;
+  
+}
+nav ul {
+    text-align: center;
+    margin-right: 30%; 
+}
+nav ul li{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: 15px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    margin-left: 5px;
+    color: gray;
+}
+
+.btn{
+    background-color: green;
+    border: none;
+    padding: 15px;
+    font-size: 15px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-top: 10px;
+    margin: 20px 20px;
+    margin-right: 90px;
+    
+}
+.btn:hover{
+    background-color: crimson;
+    color: black;
+}
+.back_img{
+    margin-top: 20px;
+    text-align: center;
+    width: 90%;
+    height: 50vh;
+    margin-left: 7%;
+    margin-right: 10%;
+}
+.imss{
+    margin-top: -15%;
+    margin-left: 65%;
+    font-size: 25px;
+}
+.imsg{
+    margin-top:10px;
+    margin-left: 65%;
+    font-size: 20px;
+}
+.box {
+    width: 80%;
+    height: 40vh;
+    border: 1px solid ;
+    border-radius: 12px;
+    margin-top: 13%;
+    margin-left: 12%;
+    margin-right: 10%;
+  }
+  .about_data{
+    margin-left: 30%;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 45px;
+  }
+.about_content{
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 23px;
+}
+
+.about_detail ul li{
+    margin-top: 28px;
+    margin-left: 150px;
+    display: inline-block;
+    font-size: 20px;
+}
+.about_source{
+    margin-left: -7%;
+}
+
+.about_source .sa{
+    margin-left: 15%;
+}
+.about_source .sat{
+    margin-left: 55px;
+}
+.about_source .sath{
+    margin-left: 130px;
+}
+.about_source .sathy{
+    margin-left: 90px;
+}
+.img_1{
+    height:5vh;
+    margin-left: 50px;
+}
+.fa-solid.fa-flask-vial{
+font-size: 50px;
+margin-left: 60px;
+}
+.fa-solid.fa-temperature-full{
+    font-size: 50px;
+    margin-left: 90px;
+}
+.bx.bxs-door-open{
+    font-size: 60px;
+    margin-left: 90px;
+    font-weight: 500;
+
+}
+.about_final{
+    margin-top: 80px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.box1{
+    width: 80%;
+    height: 40vh;
+    border: 1px solid ;
+    border-radius: 12px;
+    margin-top: 3%;
+    margin-left: 12%;
+    margin-right: 10%;
+
+}
